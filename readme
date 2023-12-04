@@ -1,0 +1,7 @@
+// Projeto feito em JAVASCRIPT
+
+// Neste projeto nós usamos a mesma base que o governo utiliza para validar se os numeros de um CPF estão corretos seguindo a conta que eles
+//criaram...
+
+// Claramente este validador só serve para ver se a conta do CPF está correta, não serve para uma validação real de um CPF ja que não temos
+// nenhuma informação em algum banco de dados para testar de verdade...
